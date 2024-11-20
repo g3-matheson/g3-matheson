@@ -1,7 +1,7 @@
 ## Kat Matheson 🐈‍⬛🧙⚧🇨🇦⚜️
 
 ### 🎮 Games
-- I am working on a hex-grid puzzle game called Emergence 2046.
+- I am creating a hex-grid puzzle game called Emergence 2046.
   - PvE mode: repopulate the biodome of the planet after climate collapse.
   - PvP mode: be the first to conquer the map with your engineered plants.
 
