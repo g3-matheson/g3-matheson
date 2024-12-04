@@ -2,12 +2,11 @@
 - c\# : unity
 - c++
 - python : blender
-- java : minecraft
-- r, sql, tex
+- java, r, tex, sql
   
 ### 🎓
 - bmath mathematical finance & pure math ('18)
-- mmath statistics ('20)
+- mmath statistics ('19)
 - bcompsc (🔶🔶🔷🔹)
 
 ### 🎮 
