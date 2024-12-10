@@ -5,7 +5,7 @@
 - java, r, tex, sql
   
 ### 🎓
-- bmath mathematical finance & pure math ('18)
+- bmath mathematical finance & pure math ('17)
 - mmath statistics ('19)
 - bcompsc (🔶🔶🔷🔹)
 
