@@ -1,7 +1,7 @@
 ### 💻 &nbsp; ⬛&nbsp; ⬛&nbsp;&nbsp; ◼️ &nbsp;&nbsp;◼️&nbsp;&nbsp;&nbsp; [◾](https://www.youtube.com/watch?v=fFyC68CIEio) &nbsp; 🧙
-- c\# : unity
+- c\# : unity, wpf
 - c++
-- python : blender
+- python : blender, pyspark
 - java, r, tex, sql
   
 ### 🎓
