@@ -1,13 +1,10 @@
 ### 💻 &nbsp; ⬛&nbsp; ⬛&nbsp;&nbsp; ◼️ &nbsp;&nbsp;◼️&nbsp;&nbsp;&nbsp; [◾](https://www.youtube.com/watch?v=fFyC68CIEio) &nbsp; 🧙
-- c\# : unity, wpf
-- c++
-- python : blender, pyspark
-- java, r, tex, sql
+- c\#, c++, r, python, java, tex, rust
   
 ### 🎓
 - bmath mathematical finance & pure math ('17)
 - mmath statistics ('19)
-- bcompsc (🔶🔶🔷🔹)
+- bcompsc ('2.?)
 
 ### 🎮 
-🔸🔹🔹
+- cooking
