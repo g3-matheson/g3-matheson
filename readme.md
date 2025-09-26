@@ -1,10 +1,11 @@
-### 💻 &nbsp; ⬛&nbsp; ⬛&nbsp;&nbsp; ◼️ &nbsp;&nbsp;◼️&nbsp;&nbsp;&nbsp; [◾](https://www.youtube.com/watch?v=fFyC68CIEio) &nbsp; 🧙
-- c\#, c++, r, python, java, tex, rust
+### 💻
+- languages: c\#, c++, rust, r, python, java, tex, bash
+- frameworks/software: unity, git, linux, perforce, sharpmake, cmake, jira, wpf, tableau, neovim
   
 ### 🎓
 - bmath mathematical finance & pure math ('17)
 - mmath statistics ('19)
-- bcompsc ('2.?)
+- bcompsc ('26)
 
 ### 🎮 
 - Emergence 2046 in development... stay tuned!
