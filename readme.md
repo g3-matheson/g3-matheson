@@ -7,4 +7,4 @@
 - bcompsc ('2.?)
 
 ### 🎮 
-- cooking
+- Emergence 2046 in development... stay tuned!
