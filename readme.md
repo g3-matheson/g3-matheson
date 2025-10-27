@@ -8,5 +8,5 @@
 - bcompsc ('26)
 
 ### 🎮 
-- [Candy Crush Clone](https://www.youtube.com/watch?v=xJOJJaZb0uA)
+- [Candy Crush Clone](https://www.youtube.com/watch?v=njUQzR0cEGc)
 - Emergence 2046 in development... stay tuned!
